@@ -1,0 +1,21 @@
+.tradingform{
+    margin:auto;
+    width: 50%;
+
+    h1{
+        text-align: center
+    };
+
+    form{
+        text-align: center;
+
+        div{
+            padding: 5px;
+        };
+
+        button.active {
+            background-color: green;
+        }
+    }
+}
+
